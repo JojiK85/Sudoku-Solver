@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Welcome to the Sudoku Solver, a console-based interactive application that allows users to input a Sudoku puzzle and solves it efficiently using a backtracking algorithm. The program includes a visually appealing Sudoku board interface with color-coded cells and interactive controls.
+Welcome to the Sudoku Solver, a console-based interactive application that allows users to input a Sudoku puzzle and solves it. The program includes a visually appealing Sudoku board interface with color-coded cells and interactive controls.
 <br/>
 # Features
 - Interactive Sudoku input interface with keyboard navigation.
